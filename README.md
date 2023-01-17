@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mukut</h1>
 <h3 align="center">Frontend developer with a creative touch</h3>
-<img  alt="mukutdev" src="https://i.ibb.co/tbhDStk/mukut-chakrabarty-banner.png">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mukutdev&label=Profile%20views&color=0e75b6&style=flat" alt="mukutdev" /> </p>
 
 <p align="left"> <a href="https://twitter.com/mukutchakrabor5" target="blank"><img src="https://img.shields.io/twitter/follow/mukutchakrabor5?logo=twitter&style=for-the-badge" alt="mukutchakrabor5" /></a> </p>
 
