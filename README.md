@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mukut</h1>
 <h3 align="center">Frontend developer with a creative touch</h3>
-<img align="center" src="https://i.ibb.co/QnsRgMV/mukut-chakrabarty-banner.jpg" alt="mukut-chakrabarty-banner" border="0">
+<img align="center" src="https://i.ibb.co/KmfKXYV/mukut-chakrabarty-banner.png" alt="mukut-chakrabarty-banner" border="0">
 
 # 💫 About Me:
 🌱 I’m currently learning Redux, Next JS, Typescript<br>👨‍💻 All of my projects are available at https://mukutdev.com/<br>💬 Ask me about Html, CSS , tailwind CSS , bootstrap , JavaScript, react<br>📫 How to reach me mukutchakraborty.developer@gmail.com<br>📄 Know about my experiences https://drive.google.com/file/d/1gBJQEsT1O9Xws63aqoVZX5KuDkOZCh6d/view?usp=share_link
